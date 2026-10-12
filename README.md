@@ -1,8 +1,10 @@
 # ☁️ Azure App Service Deployer
 > Configure highly available Azure App Service plans. Generate slot deployments configurations, custom domain binds, dynamic logging profiles, and scaling templates.
 
-[![Studio](https://img.shields.io/badge/Developer_Studio-Live-brightgreen)](https://pradeeptalari14.github.io/portfolio/tools/azure-app-service/)
+[![Studio](https://img.shields.io/badge/Developer_Studio-Live-brightgreen)](https://pradeeptalari.me/tools/azure-app-service/)
 [![Category](https://img.shields.io/badge/Category-cloud-blue)]()
+[![Ecosystem](https://img.shields.io/badge/Portfolio%20Ecosystem-341%20Studios-6366f1.svg)](https://pradeeptalari.me/projects/)
+[![Architecture DAG](https://img.shields.io/badge/Architecture-DAG%20%26%20Course-10b981.svg)](https://pradeeptalari.me/tools/repo-learning/)
 
 ---
 
@@ -132,7 +134,10 @@ Triggers cloud alerts on cost budget breaches, node terminations, or replication
 
 | Resource | Link |
 |----------|------|
-| Interactive Studio | [Open →](https://pradeeptalari14.github.io/portfolio/tools/azure-app-service/) |
-| All 91 Studios | [Dashboard →](https://pradeeptalari14.github.io/portfolio/tools/) |
+| Interactive Studio | [Open →](https://pradeeptalari.me/tools/azure-app-service/) |
+| All 91 Studios | [Dashboard →](https://pradeeptalari.me/tools/) |
 
-*Part of [Talari Pradeep Developer Studio Portfolio](https://pradeeptalari14.github.io/portfolio)*
+*Part of [Talari Pradeep Developer Studio Portfolio](https://pradeeptalari.me)*
+
+---
+*Synchronized with [Azure App Service Deployer Studio](https://pradeeptalari.me/tools/azure-app-service/) & [Repository Learning DAG](https://pradeeptalari.me/tools/repo-learning/) — [Talari Pradeep Portfolio](https://pradeeptalari.me)*
